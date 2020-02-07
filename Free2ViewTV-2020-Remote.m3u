@@ -506,6 +506,10 @@ http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV",The Miracle Channel (Faith)
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BluPixal/Free2ViewTV/blob/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (French)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/BluPixal/Free2ViewTV/blob/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (English)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2//Assets_1572351842291/Layer3_master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
