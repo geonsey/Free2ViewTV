@@ -23,8 +23,12 @@
 #
 # Changelog (News and Updates): (oldest at the end of this document, newest at the beginning of this document)
 #
-# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added in CBS Interactive category.
-# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels.
+# Update: 2/04/2020 - NEW CHANNELS ADDED: Added selected channels from Distro TV (http://www.distro.tv/) into its own category.
+# Update: 2/03/2020 - NEW CHANNELS ADDED: Two different streams of Dust science-fiction channel added to the Movies Plus category.
+# Update: 2/02/2020 - NEW CHANNELS: Added additional channels in the USA FREE OTA TV category (K36JH 36.4, Impulse TV; KVVB 33.1).
+# Update: 2/02/2020 - PLAYLIST MAINTENANCE: Added/updated channels in various Pluto TV categories.
+# Update: 2/01/2020 - PLAYLIST MAINTENANCE: Cleaned up / updated EPG channels. Cleaned up / updated USA FREE OTA TV channels.
+# Update: 2/01/2020 - NEW CHANNEL ADDED: CBS News Philly added / CBS News Minnesotta updated in CBS Interactive category.
 # Update: 1/31/2020 - PLAYLIST MAINTENANCE: Cleaned up Christmas Collection category: added placeholder videos where links are dead.
 # Update: 1/31/2020 - NEW VIDEOS ADDED: Added Fireplace & Chill (18+) video in "About Us + Extras" category.
 # Update: 1/30/2020 - PLAYLIST MAINTENANCE: Cleaned up sources in ENTERTAINMENT category. Cleaning up Pluto TV source streams.
