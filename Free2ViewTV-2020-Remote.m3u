@@ -533,33 +533,33 @@ https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1457068582
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Citytv_640x215png.png" group-title="Canadian TV",CityTV
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/48875202f1cff2c48791817e4caef933/1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Charlottetown
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Edmonton
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Edmonton
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Fredericton
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Fredericton
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Halifax
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Halifax
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montreal
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Montreal
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Ottawa
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Regina
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Regina
 https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC St Johns
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC St Johns
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Toronto
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Toronto
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Vancouver
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Vancouver
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Windsor
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Windsor
 https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Winnipeg
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Winnipeg
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Yellowknife
+#EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Yellowknife
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 
 #EXTINF:-1 tvg-id="I2.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Acadie
@@ -601,6 +601,7 @@ http://190.80.3.28/NBC/NBC.isml/index.m3u8
 https://lslfzqe5m94.a.trbcdn.net/livemaster/ldmic_live-jftiriuxx7c.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="I6.1.34968.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBS.png" group-title="USA FREE OTA TV",CBS-TV (2)
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1 tvg-id="I23.1.45777.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV
 #EXTINF:-1 tvg-id="I23.1.45777.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Fox.png" group-title="USA FREE OTA TV",FOX-TV
 https://gfd3bww887q.a.trbcdn.net/livemaster/3u1m1_live-t0p2vzyei1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TheCW.png" group-title="USA FREE OTA TV",The CW (1)
