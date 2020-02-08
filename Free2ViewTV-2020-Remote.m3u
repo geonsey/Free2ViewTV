@@ -248,15 +248,15 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://broadcaster1.prolivestream.net:8083/onair/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NewsNet.png" group-title="News & Weather",News Net (HD)
 https://bozztv.com/36bay2/gin-newsnet/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
+#EXTINF:-1 tvg-id="I674.67040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 1)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 2)
+#EXTINF:-1 tvg-id="I674.67040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 2)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 3)
+#EXTINF:-1 tvg-id="I674.67040.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/SkyNews.png" group-title="News & Weather",Sky News (Source 3)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/skynewsamericas_cdhls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (ENG)
+#EXTINF:-1 tvg-id="I75.58685.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (ENG)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (FR)
+#EXTINF:-1 tvg-id="I75.58685.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="News & Weather",France 24 (FR)
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium Live
