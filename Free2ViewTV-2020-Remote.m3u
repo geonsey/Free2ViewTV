@@ -522,8 +522,6 @@ https://hls.savoir.media/live/stream.m3u8
 https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1457068582_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU4MTEzMzI0OSZpaW1hZTBVQzJhaGFzaD13WGZJbWgyXzNseUpLamJ5dWllYU5nUXgzR2ZYaE5XUDV0d3YxM2h0ZlZjPQ==.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CHCH_150x138.png" group-title="Canadian TV",Canal CHCH TV (360p)
 https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1457068582_b1160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU4MTEzMzI0OSZpaW1hZTBVQzJhaGFzaD13WGZJbWgyXzNseUpLamJ5dWllYU5nUXgzR2ZYaE5XUDV0d3YxM2h0ZlZjPQ==.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/daystar-canada_225x66.png" group-title="Canadian TV",Daystar Canada
-https://playback2.akamaized.net/streams/28840462_8860467_lsikf2gurdmn0v0m48e_1/exp=1581206085~acl=%2f*~data=hdntl~hmac=a4d79614294514ab1410451e539e9859d43792baabb6b50f676ef2f64dc446a3/media/28840462_8860467_lsikf2gurdmn0v0m48e_1@2756000pb.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Citytv_640x215png.png" group-title="Canadian TV",CityTV
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/48875202f1cff2c48791817e4caef933/1.m3u8
 
