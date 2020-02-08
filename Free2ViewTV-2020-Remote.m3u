@@ -482,9 +482,9 @@ https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="Canadian TV",CBC TV (Ontario) (Geo)
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canadian TV",ICI RDI (French News)
+#EXTINF:-1 tvg-id="I619.60327.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="Canadian TV",ICI RDI (French News)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Canadian TV",ICI Tele (Montreal) (Geo)
+#EXTINF:-1 tvg-id="I2.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="Canadian TV",ICI Tele (Montreal) (Geo)
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I8.17381.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TeleQuebecCA.png" group-title="Canadian TV",Tele-Quebec (720p)
 https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
@@ -500,9 +500,9 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TSC-Canada.png" group-title="Canadian TV",The Shopping Channel
 http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="Canadian TV",NTV Newfoundland
+#EXTINF:-1 tvg-id="I405.14926.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NTV-CA_400x400.png" group-title="Canadian TV",NTV Newfoundland
 https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",Weather Network Events
+#EXTINF:-1 tvg-id="I160.10170.zap2it.com" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheWeatherNetwork_300x300.png?raw=true" group-title="Canadian TV",Weather Network Events
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Canadian TV",EWTN Canada (Faith)
 http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
@@ -510,9 +510,9 @@ http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV",The Miracle Channel (Faith)
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (French)
+#EXTINF:-1 tvg-id="I174.21667.zap2it.com" tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (French)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (English)
+#EXTINF:-1 tvg-id="I175.17608.zap2it.com" tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (English)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2//Assets_1572351842291/Layer3_master.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Ici-Television_150x150.png" group-title="Canadian TV",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b58451695b0871f9ac8/1.m3u8
