@@ -1148,7 +1148,13 @@ https://github.com/geonsey/Free2ViewTV/releases/download/3/Fireplace-and-Chill_2
 #EXTM3U
 
 #EXTINF:-1 tvg-id="MSNBC" tvg-name="MSNBC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| MSNBC
-http://docs-4.gogleusercontent.host/live/msnbc/chunks.m3u8
+http://51.159.21.231:2052/usapro2@source/799965@26641/1750
+
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tavel Channel
+http://51.159.21.231:2052/usapro2@source/799965@26641/1730
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| AMC 
+http://iptvpro.premium-itv.com:8789/31031986/31031986/24122
 
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| CNN
 http://live.fadev.club/live/CNN/playlist.m3u8
@@ -1207,9 +1213,6 @@ http://live.fadev.club/live/NBC/playlist.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| A&E
 http://live.fadev.club/live/AE/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| AMC 
-http://live.fadev.club/live/AMC/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png" group-title="PRIVATE-1",|TEST| American Heroes
 http://live.fadev.club/live/AHC/playlist.m3u8
 
@@ -1264,9 +1267,6 @@ http://live.fadev.club/live/TNT/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| TLC US
 http://live.fadev.club/live/TLC/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TRAVEL" tvg-name="TRAVEL" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tavel Channel
-http://live.fadev.club/live/TravelChannel/playlist.m3u8
-
 #EXTINF:-1 tvg-id="truTV" tvg-name="truTV" tvg-type="live" group-title="PRIVATE-1" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Generic_Live-TV_Blue.png",|TEST| Tru TV
 http://live.fadev.club/live/TruTV/playlist.m3u8
 
@@ -1297,4 +1297,7 @@ http://live.fadev.club/live/Space/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="New Pluto TV Tests",1 Pluto TV Lineup
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bac15e47d92bd45a878f59c/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=48a060c9-f7be-4a60-95fb-62332b5ef90a&deviceId=f326520d-7599-402b-adc7-3b65e7a93a7d&deviceVersion=65.0.3467.78&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WatchYourTV_374x374.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index-1581107497-now.m3u8
 
