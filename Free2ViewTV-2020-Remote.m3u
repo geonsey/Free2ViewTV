@@ -589,8 +589,18 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-id="I2.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",EarthCamTV
+https://videos-3.earthcam.com/fecnetwork/14178.flv/chunklist_w245096990.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",Niagara Falls Horseshoe Falls
 https://videos-3.earthcam.com/fecnetwork/15527.flv/chunklist_w1687012269.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",CN Tower East View
+https://videos-3.earthcam.com/fecnetwork/9299.flv/chunklist_w408908057.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",CN Tower West View
+https://videos-3.earthcam.com/fecnetwork/9298.flv/chunklist_w1743261601.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",Algonquin Park
+https://videos-3.earthcam.com/fecnetwork/17664.flv/chunklist_w1162605789.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",Edmonton
+https://videos-3.earthcam.com/fecnetwork/15629.flv/chunklist_w148691568.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (1)
 http://cdn-maxplanck.wasd.tv/live/215157/mono.m3u8
