@@ -167,7 +167,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr
+#EXTINF:-1 tvg-id="I245.93430.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" group-title="Entertainment",Buzzr
 https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Folk-TV.png" group-title="Entertainment",Folk TV
 http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
@@ -269,7 +269,7 @@ http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Stadium.png" group-title="Sports",Stadium Live
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MLBtv.png" group-title="Sports",MLB Network
+#EXTINF:-1 tvg-id="I9434.62081.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/MLBtv.png" group-title="Sports",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sports",Olympic Channel USA
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
@@ -285,7 +285,7 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://api.new.livestream.com/accounts/22774234/events/6897936/live.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SportsGrid_512x512.png?raw=true" group-title="Sports",SportsGrid Network
 https://grid-xumo.akamaized.net/SPGD.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
+#EXTINF:-1 tvg-id="I9473.61854.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCGolf.png" group-title="Sports",Golf Channel (Geo-USA)
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBSSportsHQ_290x290.png" group-title="Sports",CBS Sports HQ (Geo-USA)
 https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
