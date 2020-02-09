@@ -17,113 +17,6 @@
 # Download the complete Changelog (News and Updates):
 # https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
 #
-# Update: 9/01/2019 - UPDATED CHANNELS: New link updated for ABC News Live's main feed (shout out to G.K. on Reddit for this)!
-# Update: 9/01/2019 - NEW CHANNELS: I think the Pluto TV category is holding up! More channels have been added! Still as TEST for now.
-# Update: 9/01/2019 - NEW CATEGORY & CHANNELS: added a Travel & Tourism special interest category with several sources from 12/19/17.
-# Update: 9/06/2019 - NEW CATEGORY: Added new Video On Demand category with a selection of classic movies from Tubi and Snagfilms!
-# Update: 9/07/2019 - MAINTENANCE: Still testing Pluto TV live streams; slight adjustments to some channels.
-# Update: 9/07/2019 - NEW CHANNELS: Added two new Adult-oriented channels in International TV: Jasmin TV and FTV Midnight Secrets.
-# Update: 9/07/2019 - MAINTENANCE: Jasmin TV proved to buffer too much testing all of the available links. Removed from playlist.
-# Update: 9/09/2019 - MAINTENANCE: Cleaned up some Pluto TV channel URL's. 
-# Update: 9/13/2019 - MAINTENANCE & NEW CHANNELS: Reorganized Sports channels in its own category; added 3 more Sports (OTA) channels.
-# Update: 9/15/2019 - Playlist News: To maintain the mandate of "Free and Public" live-streams, USA TEST Channels will all be ...
-#                     ... eventually removed and replaced by free antenna translator retransmissions. Those changes begins today.
-# Update: 9/15/2019 - MAINTENANCE: Cleaned up some Category Names (removed "OTA" from the names); renamed USA TEST NEWS to LIVE NEWS.
-# Update: 9/15/2019 - CHANNEL MAINTENANCE: removed Food TV (UK) from International (this was not evidently from UK, and bad stream)
-# Update: 9/15/2019 - NEW CHANNEL ADDED: NHK World Japan added to International TV in response to a user request.
-# Update: 9/15/2019 - Canadian TV: Hard Knocks Fighting TV, History TV live streams are discontinued (deleted the links).
-# Update: 9/16/2019 - CHANNEL MAINTENANCE: Entertainment category: updated some links, added Electric Now live stream from DistroTV.
-# Update: 9/16/2019 - NEW CHANNELS ADDED: Cheddar and Cheddar Big News have been added to the News & Weather category.
-# Update: 9/16/2019 - NEW CHANNELS ADDED: Russia Today News, America, and UK added to International Channels (user requested).
-# Update: 9/16/2019 - NEW CHANNELS ADDED: Bloomberg US and EU live feeds added to International Channels (user requested).
-# Update: 9/18/2019 - CHANNEL MAINTENANCE: My TV To Go category deleted: this network is till available online if you want to ...
-#                     ... watch these channels, but I found them to provide low quality programming and not very popular for ...
-#                     ... this playlist. Classic Arts Showcase is a popular feed, so I have moved it to Entertainment category ...
-#                     ... using an original source feed. Also, Weather4U is simply a duplicate of Weather Channel and NewsNet ...
-#                     ... is already included in other categories of this playlist. Watch the network online: https://mytvtogo.net
-# Update: 9/18/2019 - CHANNEL MAINTENANCE: Giniko TV category deleted: the network is online at http://www.giniko.com and ...
-#                     ... https://ginikousa.com, but programming is sub-par quality and way TOO MANY REPEATED videos. ...
-#                     ... However, I have moved several quality channels to the Special Interest category (music, crafts, etc). 
-# Update: 9/18/2019 - CHANNEL MAINTENANCE: Updated Pluto TV URLs eliminating duplicate SID's that may cause live stream conflicts.
-# Update: 9/18/2019 - NEW CHANNELS ADDED: This Old House 24/7, Pluto TV Sports, Pluto TV Family channels to Pluto TV category.
-# Update: 9/20/2019 - PLAYLIST MAINTENANCE: Updated a new Top 5 channel list; updated billboards in "About Us" category.
-# Update: 9/22/2019 - CHANNEL MAINTENANCE: Some free antenna translator retransmissions died; replaced with others as USA (OTT) 1.
-# Update: 9/22/2019 - NEW CHANNEL ADDED: Added Golf Channel and CBS Sports HQ to Sports Category, both are Geo-USA only.
-# Update: 9/23/2019 - CHANNEL MAINTENANCE: Updated some corrupted Pluto TV feeds; Shout! Factory added. Updated "Live News" feeds.
-# Update: 9/24/2019 - PLAYLIST MAINTENANCE: Minor maintenance and cleanup of Playlist. Added 2nd source for 247 Retro channel.
-# Update: 9/25/2019 - NEW CHANNELS ADDED: Added Law & Crime Trial Network feeds. (9/28) Updated some channels in USA (OTT) 1.
-# Update: 9/28/2019 - NEW CHANNELS ADDED: Added the three Cinedigm Digital Cinema live streams: Dove Channel, CONtv, Docurama.
-# Update: 9/29/2019 - MONITORING: Canadian Global TV channels stopped working, may now be behind cable login wall. Investigating.
-# Update: 9/30/2019 - NEW CHANNELS ADDED: Added new CBS News Boston in CBS interactive category, as well as Dabl.
-# Update: 10/01/19  - NEW CHANNEL ADDED: Renamed LAW & CRIME category to LAW + JUSTICE and added Court TV live stream. 
-# Update: 10/06/19  - CHANNEL MAINTENANCE: Replaced dead Live News links: https://1674331492.rsc.cdn77.org source URL died.
-# Update: 10/07/19  - NEW PLUTO TV CHANNELS ADDED: added Pluto TV Movies; Criss Angel Mindfreak; Addams Family 24/7.
-# Update: 10/07/19  - NEW CATEGORY: Nostalgia TV + Movies: re-organized some current channels and added some new channels here.
-# Update: 10/07/19  - MAINTENANCE: Pop TV, Global TV CA channels died, placeholders added until replacement sources are found.
-# Update: 10/14/19  - CHANNEL MAINTENANCE: NASA TV's "iphone" HLS sources have died, replaced with a working source.
-# Update: 10/14/19  - NEW VIDEOS ADDED: OTR On Demand catg. with a new vid; and Roku Screensavers vids in About Us + Extras.
-# Update: 10/17/19  - MAINTENANCE: Pluto TV list is growing! I divided it into 3 new Pluto TV groups and reorganized channels.
-# Update: 10/17/19  - NEW CHANNELS ADDED: Miami TV, Travel & Tourism category; A3 Bikini in Special Interest category. (All 18+)
-# Update: 10/20/19  - CHANNEL MAINTENANCE: Removed dead channels, POP and Global TV (Canada); still searching for working sources.
-# Update: 10/21/19  - PLAYLIST MAINTENANCE: Re-organized Pluto TV categories with additional streams.
-# Update: 10/24/19  - PLAYLIST MAINTENANCE: Renamed USA (OTT) 1 to USA FREE OTA TV.
-# Update: 10/25/19  - NEW CHANNELS ADDED: 70 Pluto TV Terror ("Pluto TV (2) Movies").
-# Update: 10/28/19  - MAJOR UPDATE: Internet Archive, where my files are stored, locked out files due to high bandwidth usage...
-#                     ... relocated playlists, logo files, and (soon) extra materials to a new set of servers. This update:
-#                     ... complete update of remote links and logos, and new name of playlists for 2020. More tweaks to follow.
-# Update: 10/30/19  - PLAYLIST MAINTENANCE: Completed file transfers to new servers, all F2V-TV video extras working now.
-# Update: 10/30/19  - NEW CHANNELS ADDED: Added VSiN (Sports Betting) in Sports category.
-# Update: 11/01/19  - UPDATES: Removed "Top 5" Category at end of playlist, replaced it with a NEW "Christmas Collection" category.
-# Update: 11/02/19  - NEW SEASONAL CHANNELS ADDED: 4 new Pluto TV Seasonals added to Christmas Coll. and Pluto TV (3) Pluto+*
-#                     * all four channels will be added as soon as I can get individual SID codes to avoid stream conflicts :-)
-# Update: 11/04/19  - NEW CHANNEL ADDED: The Weather Network and The Knowledge Network have been added to Canadian TV category.
-#                     (NOTE: The Weather Network may only be live during "weather events" and does not appear to be 24/7.)
-# Update: 11/04/19  - CHANNEL MAINTENANCE: Updated CBS News NY live link. 
-# Update: 11/05/19  - CHANNEL MAINTENANCE: Removed The Country Network (the public feed died since going behind a pay-wall).
-# Update: 11/08/19  - NEW CHANNELS ADDED: ** I am excited to add new channels from the free internet TV service STIRR !! **
-# Update: 11/10/19  - CHANNEL MAINTENANCE: Updated some Stirr TV channels and renamed the category as a SAMPLER.
-# Update: 11/11/19  - NEW CHANNEL ADDED: NBC News Now: Main feed is live from 3p-11p ET Mon-Fri; Event feed is occasional.
-# Update: 11/12/19  - CHANNEL MAINTENANCE: Updated NBC News Now into its own category and added additional Event feeds.
-# Update: 11/12/19  - CHANGES: NBC News Now main feed link changes daily, so permanent MASTER unavilable; replaced with MSNBC.
-# Update: 11/17/19  - CHANNEL MAINTENANCE: cvtv.cvalley.net links died two days ago, removed from USA FREE OTA TV.
-# Update: 11/17/19  - CHANNEL MAINTENANCE: replacement channels for major US local networks added into USA FREE OTA TV.
-# Update: 11/17/19  - NEW CHANNELS: Two Hallmark Channels added from original network sources! Entertainment & Christmas categories.
-# Update: 11/18/19  - NEW CHANNELS: Additional NASA channel appears to be working, added; Added new CBS News Bay Area live stream.
-# Update: 11/19/19  - CHANNEL MAINTENANCE: Removed the dead HBO channels from the International Channels category.
-# Update: 11/21/19  - CHANNEL MAINTENANCE: Updated live stream links in the Nostalgia TV + Movies category.
-# Update: 11/21/19  - NEW CHANNELS: Added "It's At The Movies" (Nostalgia TV + Movies); added additional locals (USA FREE OTA TV)
-# Update: 11/22/19  - DOCUMENT MAINTENANCE: Corrected formatting of playlist to accommodate LG TV apps (thanks for the heads up HL!)
-# Update: 11/24/19  - NEW PLUTO TV CHANNELS ADDED: 917 monstercat TV (Pluto+ Category).
-# Update: 11/24/19  - NEW CHANNELS ADDED: By request, three Fashion TV / FTV channels added in the International TV category.
-# Update: 11/25/19  - PLAYLIST MAINTENANCE: Updated logos for Fashion TV; CBS News link updated.
-# Update: 11/26/19  - MAINTENANCE: Deleted Multi Res. Feeds category since individual MASTER links usually auto-adjusts resolutions.
-# Update: 11/26/19  - RADIO: Re-organizing the LIVE RADIO categories: Removed Fox News Radio (dead link); added new radio/audio feeds.
-# Update: 11/26/19  - UPDATED CATEGORIES: RADIO (HLS) for IPTV; and RADIO (VLC) will NOT work on IPTV, needs external or VLC player.
-# Update: 11/26/19  - (continued) deleted OTR On-Demand category (for now, just don't have enough media for this category.)
-# Update: 11/26/19  - (continued) added additional CBC Canada radio feeds from the west coast; relocated RADIO's to end of list.
-# Update: 11/27/19  - UPDATED RADIO CHANNELS: Completely overhauled Radio channels and categories. Fixed broken / new streams added.
-# Update: 12/10/19  - NEW PLUTO TV CHRISTMAS CHANNELS: Added MTV Mistle YO! and VEVO Holiday. Special Pluto Christmas logo, too!
-# Update: 12/13/19  - CHANNEL MAINTENANCE: Updated live stream link for NHK World Japan and some channels in USA FREE OTA TV.
-# Update: 12/14/19  - NEW CHANNELS ADDED: in USA FREE OTA TV category, channels from Victor Valley CA and Cozi TV (West Virginia).
-# Update: 12/14/19  - NEW CATEGORY AND CHANNELS ADDED: from Bumblebee.tv, a free live streaming service with a few channels to start.
-# Update: 12/16/19  - MAINTENANCE: old LIVE NEWS channels died, replaced with news feeds from LIVE NEWS WATCH and renamed category.
-# Update: 12/17/19  - INFO: news channels in LIVE NEWS WATCH have died (tokened), searching for replacements live streams.
-# Update: 12/18/19  - Moved Bloomberg channels from INT'L category to its own BLOOMBERG LIVE with additional Bloomberg streams.
-# Update: 12/19/19  - INFO: Tested Geo-locked channels: CBC Canada appears to be available without geographical restrictions...?
-# Update: 12/19/19  - CATEGORY MAINTENANCE: Canadian TV: Updated streams for NTV Newfoundland; added two Faith-based channels.
-# Update: 12/20/19  - CATEGORY MAINTENANCE: Removed LIVE NEWS WATCH category until new Live News feeds can be located.
-# Update: 12/20/19  - RETURNING CHANNELS: Muted sound from Olympic Channel sub-channels seems resolved, re-added as Category.
-# Update: 12/20/19  - SITE NEWS: New blog: *** UPDATE YOUR BOOKMARKS!!!! *** https://thefrugalstreamer.blogspot.com/
-# Update: 12/20/19  - SITE NEWS: new email address: Free2ViewTVCanada@gmail.com - billboard videos updated in ABOUT US + EXTRAS.
-# Update: 12/22/19  - NEW OLD TIME RADIO CHANNELS ADDED: The Yesterday USA Radio Networks added.
-# Update: 12/26/19  - CATEGORY MAINTENANCE: Renamed NOSTALGIA TV + MOVIES to NOSTALGIA FLICKS to make way for new MOVIES category.
-# Update: 12/27/19  - NEW CHANNELS ADDED: Movies Plus category and new channels MGM Sci-fi, The Asylum, and FilmRise channels.
-# Update: 12/27/19  - CHANNEL MAINTENANCE: Film Detective, Electric Now movie channels: new sources added into Movies Plus category.
-# Update: 12/27/19  - CHANNEL MAINTENANCE: Cleaned up the Olympics Channel and deleted dead channels. Added CBS News Minnesota.
-# Update: 12/28/19  - CHANNEL MAINTENANCE: Re-added some of the LIVE NEWS channels (CNN, CNBC, FOX News, MSNBC, BBC World News.)
-# Update: 12/29/19  - CHANNEL MAINTENANCE: Updated Stirr TV channel logo to differentiate from my Stirr TV master playlist...
-#                     ... which you can get from here: https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/StirrTV.m3u
-# Update: 12/29/19  - NEW CHANNELS: Added USA FREE OTA TV25 category with 12 OTA's from TV25, KCKS-LD, Kansas City, Kansas, USA.
 # Update: 1/02/2020 - NEW CATEGORY ADDED: Full set of NASA streams (including ISS HD Earth Viewing Experiment) in NASA TV category. 
 # Update: 1/02/2020 - CHANNEL MAINTENANCE: Added additional LIVE NEWS sources. Added Alternate stream sources for NASA TV channels.
 # Update: 1/06/2020 - NEW CHANNEL: The Miracle Channel added in CANADIAN TV, view online: https://miraclechannel.ca/live.
@@ -894,6 +787,25 @@ https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="Distro TV | Sampler",Distro TV | The Titanic Channel
 https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_01_TVS-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS TV Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstn/index-1581251098-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_02_TVS-Classic-Sports_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index-1581251185-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_03_TVS-Boxing-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index-1581251348-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_04_TVS-Turbo-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index-1581251421-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_09_TVS-Drive-In-Movie_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Drive In Movie
+https://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index-1581107497-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_13_TVS-Main-Street_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index-1581251513-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_15_TVS-Nostalgia_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index-1581251690-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_16_TVS-Flashback-Network_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index-1581251785-now.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TVS_14_TVS-Frontier_160x160.png?raw=true" group-title="WatchYour.TV | TVS ",TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index-1581251606-now.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BumblebeeTV_Generic.png?raw=true" group-title="Bumblebee TV",popcornflix Action Movies
 https://stitcher.unreel.me/live/5d4b21643f4d602ba521b06c/playlist.m3u8
