@@ -589,6 +589,9 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-id="I2.16732.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-Tele-v2.png" group-title="ICI Tele Canada (Geo)",ICI Tele Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Earthcam_512x512.png" group-title="EarthCam",Niagara Falls Horseshoe Falls
+https://videos-3.earthcam.com/fecnetwork/15527.flv/chunklist_w1687012269.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (1)
 http://cdn-maxplanck.wasd.tv/live/215157/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ABC_350x350.png" group-title="USA FREE OTA TV",ABC-TV (2)
