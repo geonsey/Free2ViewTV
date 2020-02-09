@@ -522,15 +522,15 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680604/1242843915001_3//Assets_1572351842277/Layer3_master.m3u8
 #EXTINF:-1 tvg-id="I175.17608.zap2it.com" tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CPAC_512x243.png" group-title="Canadian TV",CPAQ (English)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2//Assets_1572351842291/Layer3_master.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Ici-Television_150x150.png" group-title="Canadian TV",ICI Télévision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Ici-Television_150x150.png" group-title="Canadian TV",ICI Télévision
 https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/6d56dcba66d14b58451695b0871f9ac8/1.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Canal-Savoir_178x240.png" group-title="Canadian TV",Canal Savoir
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Canal-Savoir_178x240.png" group-title="Canadian TV",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CHCH_150x138.png" group-title="Canadian TV",Canal CHCH TV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CHCH_150x138.png" group-title="Canadian TV",Canal CHCH TV (720p)
 https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1457068582_b3160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU4MTEzMzI0OSZpaW1hZTBVQzJhaGFzaD13WGZJbWgyXzNseUpLamJ5dWllYU5nUXgzR2ZYaE5XUDV0d3YxM2h0ZlZjPQ==.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CHCH_150x138.png" group-title="Canadian TV",Canal CHCH TV (360p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/CHCH_150x138.png" group-title="Canadian TV",Canal CHCH TV (360p)
 https://flowcaster5.cdn.clearcable.net/CHCH/smil:CHCH.smil/chunklist_w1457068582_b1160000_sleng_tkaWltYWUwVUMyYWVuZHRpbWU9MTU4MTEzMzI0OSZpaW1hZTBVQzJhaGFzaD13WGZJbWgyXzNseUpLamJ5dWllYU5nUXgzR2ZYaE5XUDV0d3YxM2h0ZlZjPQ==.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Citytv_640x215png.png" group-title="Canadian TV",CityTV
+#EXTINF:-1 tvg-id="I14.17046.zap2it.com" tvg-logo="https://raw.githubusercontent.com/BluPixal/Free2ViewTV/master/images/logos/Citytv_640x215png.png" group-title="Canadian TV",CityTV
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/48875202f1cff2c48791817e4caef933/1.m3u8
 
 #EXTINF:-1 tvg-id="I6.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CBCtv.png" group-title="CBC TV Canada (Geo)",CBC Calgary
