@@ -528,7 +528,31 @@ https://2-fss-2.streamhoster.com/pl_120/201794-1303554-1/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201794-1313642-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/KVVB-33_370x370.png?raw=true" group-title="USA FREE OTA TV", KVVB-TV 33.1 Victorville CA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aztv.com/sites/all/themes/AZTV/logo.png" group-title="Local Channels",KAZT
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/KAZT-DT1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-74019.png" group-title="Local Channels",WPHA
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/wpha_DT1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-74020.png" group-title="Local Channels",WPHA2
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/wpha_DT2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-74021.png" group-title="Local Channels",WPHA3
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/wpha_DT3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media-usla.mybtv.net/logos/56.1.png" group-title="Local Channels",KDOC
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/kdoc-dt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/Bx8NaEnRelcRTcpdosCCYggM3Xd-bMZu0d9whL9SKd2V9DDa0_0663RIgpTQr5mVBpfY3ajysjdh" group-title="Local Channels",PBS (WPSU)
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/Bx8NaEnRelcRTcpdosCCYggM3Xd-bMZu0d9whL9SKd2V9DDa0_0663RIgpTQr5mVBpfY3ajysjdh" group-title="Local Channels",PBS (KET)
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="Local Channels",MyTV (KCWX)
+http://raw.githubusercontent.com/MapGuy11/the6tv/master/KCWX-DT1.m3u8
+#EXTINF:-1 tvg-id="WPHLDT" tvg-name="WPHLDT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/WPHL_2018_logo.png" group-title="Local Channels",WPHL
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/wphl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="Weather",The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.localbtv.com/images/phillybtv/logos/20530-81915.png" group-title="National",getTV
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/WFPADT2.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/WMCN44.png" group-title="Local Channels",WMCN
+https://raw.githubusercontent.com/MapGuy11/the6tv/master/wmcn-dt.m3u8
 #EXTINF:-1 tvg-id="I25.1.97116.zap2it.com" tvg-name="25.1" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.1 Buzzr
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-id="I25.2.97117.zap2it.com" tvg-name="25.2" tvg-type="live" group-title="EPG | USA FREE OTA TV25" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TV25_360x360.png?raw=true",EPG | TV25.2 NewsNet
@@ -573,11 +597,9 @@ https://2-fss-2.streamhoster.com/pl_120/201852-1297026-1/master.m3u8
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
 
 #EXTINF:-1 tvg-id="I26.11221.zap2it.com" tvg-name="26" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-Channel_300x300.png?raw=true",EPG | Hallmark Channel
-https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_douazil2/deliveryProfileId/672/protocol/https/format/applehttp/HALLMARK.m3u8
 #EXTINF:-1 tvg-id="I629.61522.zap2it.com" tvg-name="629" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Hallmark-M-M_800x800.png?raw=true",EPG | Hallmark M. & Mysteries
-https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-
+https://cdnapisec.kaltura.com/p/2630451/sp/2630451/playManifest/entryId/1_oilunwto/deliveryProfileId/672/protocol/https/format/applehttp/HALLMARKMM.m3u8
 #EXTINF:-1 tvg-id="I316.104186.zap2it.com" tvg-name="316" tvg-type="live" group-title="EPG | Free2View TV" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png",EPG | Olympic Channel USA
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
