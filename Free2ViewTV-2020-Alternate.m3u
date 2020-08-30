@@ -689,6 +689,9 @@ http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp
 https://player-api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8?OTATV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" group-title="USA FREE OTA TV",Court TV | HD
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBC.png'group-title=USA Free OTA TV'.NBC (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NBCLX_584x584.png?raw=true" group-title="USA FREE OTA TV",NBCLX
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/master.m3u8?OTATV
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CoziTV_WZTS_218x218.png?raw=true" group-title="USA FREE OTA TV",WZTS-TV | Cozi TV
@@ -1462,6 +1465,7 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://tbs.cdn.7livecloud.io/hls/live/ADE1/master_1500.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Channel7AU_440x440.png?raw=true" group-title="Australian TV",Ch. 7 Sydney (Geo-AU)
 https://npc.cdn.7livecloud.io/hls/live/SYD1/master_1500.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/France24.png" group-title="Francophone TV",France | France 24
 http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
